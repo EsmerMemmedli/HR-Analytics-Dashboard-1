@@ -13,7 +13,6 @@ The dashboard enables data-driven HR decision-making by identifying key trends i
 - **Excel** – as a supporting data source  
 - **DAX (Data Analysis Expressions)** – for calculated metrics and KPIs  
 
----
 
 ## 🧭 Dashboard Pages Overview
 
@@ -45,7 +44,6 @@ This dashboard focuses on compensation analysis, showing total and average salar
 - Salary Share by Department (%)
 
 ![Image Alt Text](https://github.com/EsmerMemmedli/HR-Analytics-Dashboard-1/blob/main/HR%20project%202.png)
-
 
 
 ###  3. Tardiness Tracking
